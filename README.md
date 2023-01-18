@@ -1,41 +1,46 @@
-logo_piiquante.png
+![logo_piiquante](https://user-images.githubusercontent.com/106766135/212482518-08db1132-f9c3-4e9d-b15b-f8479ac067c1.png)
 
+Projet 6 de la formation Développeur Web d'OpenClassRooms
 
-Projet 6 de la formation Développeur Web d'OpenClassRooms  
-_______________________________________________________________________________________ 
-
+---
 
 Piiquante
 
-_______________________________________________________________________________________
+---
 
-Création d’une API sécurisée pour une application d'évaluation  
+Création d’une API sécurisée pour une application d'évaluation
 
-Technologies utilisées :  
+Technologies utilisées :
 
-- Node.JS v16.16.0  
-- bcrypt: 5.0.1  
-- dotenv: 16.0.1  
-- express: 4.18.1  
-- helmet: 5.1.0  
-- jsonwebtoken: 8.5.1  
-- mongoose: 6.4.4  
-- mongoose-unique-validator: 3.1.0  
-- multer 1.4.5-lts.1"
-- MongoDB Atlas
+Node (environnement d'exécution JavaScript open-source)​​
 
-_______________________________________________________________________________________
+Bcrypt (algorithme de chiffrement)​​
+
+Dotenv (module de Node.js)​​
+
+Express (framework JavaScript pour Node.js)​​
+
+Helmet (middleware pour Node.js)​​
+
+jsonwebtoken (standard pour l'échange sécurisé de données)​​
+
+Mangoose (module Node.js)​​
+
+Mongoose-unique-validateur (plugin pour Mongoose)​​
+
+multer (middleware pour Node.js)​
+
+---
 
 Démarrer le serveur sur le dossier backend (Listening on port 3000)
 
-- cd backend  
-- npm install  
+- cd backend
+- npm install
 - npm start
 - nodemon server
 
 Démarrer le serveur sur le dossier frontend (http://localhost:4200/)
 
-- cd frontend  
+- cd frontend
 - npm install
 - npm start
-
