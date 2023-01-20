@@ -16,6 +16,8 @@ Node (environnement d'exécution JavaScript open-source)​​
 
 Bcrypt (algorithme de chiffrement)​​
 
+Express-validator
+
 Dotenv (module de Node.js)​​
 
 Express (framework JavaScript pour Node.js)​​
